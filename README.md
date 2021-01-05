@@ -25,5 +25,5 @@
        * 本次实验我只完成了第二小问
        * 实验数据的来源取自陈天诚和童邦凡同学的数据
        * 同时也是参考他的代码才完成这个实验的，再次致谢
-       * 他们的GitHub链接“https://github.com/TCchen-CS/MachineLearningExperiment”
+       * 他们的GitHub链接 https://github.com/TCchen-CS/MachineLearningExperiment
   
